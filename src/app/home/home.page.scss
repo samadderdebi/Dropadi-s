@@ -27,13 +27,25 @@
 }
 ion-toolbar
 {
-  --background: #e9897e;
+  --background: #062063;
 }
 .header-text
 {
-  margin-left: 4em;
-  color:black;
-   font-size: 1em;
-   font-weight: 500;
-  
+ padding-left: 7px;
+ padding-right: 7px;
+   height: 2em;
+  color:rgb(255, 255, 255);
+   font-size: 14px;
+   font-weight: 250;
+   //border: 1px solid red; 
+   font-style: italic;
 }
+.contact-info
+{
+  color: #ffd000;
+  font-size: 17px;
+  font-weight: 500;
+padding:12px;
+}
+
+
